@@ -5,7 +5,8 @@
 % The input data are coded diffraction patterns about an RGB image. Each
 % color band is acquired separately (the same codes are used for all 3 bands)
 
-% Code written by M. Soltanolkotabi and E. J. Candes
+% Code written by M. Soltanolkotabi and E. J. Candes, modified to run accelerated 
+% gradient descent by T. Maunu
 
 %%  Read Image 
 
